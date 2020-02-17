@@ -43,7 +43,7 @@
     "husky": "4.2.3",
     "lint-staged": "10.0.7",
     "prettier-standard": "16.1.0",
-    "semantic-release": "17.0.3"
+    "semantic-release": "17.0.4"
   },
   "eslintConfig": {
     "extends": "@eclass"
