@@ -25,7 +25,7 @@
   "homepage": "https://github.com/eclass/template-npm-libs#readme",
   "dependencies": {},
   "devDependencies": {
-    "@commitlint/cli": "8.3.5",
+    "@commitlint/cli": "9.0.0",
     "@commitlint/config-conventional": "8.3.4",
     "@eclass/eslint-config": "2.0.1",
     "@semantic-release/changelog": "5.0.1",
